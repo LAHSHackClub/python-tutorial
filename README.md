@@ -1,4 +1,4 @@
-# Introduction to Python 3
+# Week 1 of Python 3 - Python Syntax and Data Types
 Welcome to the Python 3 Hack Club Course! In this course, you will learn how to code in the Python programming language in the course of one semester. This is a course compiled by Los Altos High School students through various web resources including [Python for Beginners](pythonforbeginners.com) and [Learn Python](learnpython.org). 
 
 ## Uses
