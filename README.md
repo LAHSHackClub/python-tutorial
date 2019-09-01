@@ -15,3 +15,4 @@ First, you will need to create your own [repl.it](repl.it) account to use as an 
 
 ### Using Repl.it
 
+Open up your repl.it account and press the blue plus button that says ```new repl```. Search up the Python coding language and select it in the pop-up box. Skip the GitHub repo choice and name the new repl ```test```. 
