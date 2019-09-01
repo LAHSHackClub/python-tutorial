@@ -1,5 +1,5 @@
 # Python 3
-Welcome to the Python 3 Hack Club Course! In this course, you will learn how to code in the Python programming language in the course of one semester.
+Welcome to the Python 3 Hack Club Course! In this course, you will learn how to code in the Python programming language in the course of one semester. This is a course compiled by Los Altos High School students through various web resources including [Python for Beginners](pythonforbeginners.com) and [Learn Python](learnpython.org). 
 
 ## Uses
 
@@ -9,4 +9,9 @@ The concept of a "scripting language" has changed considerably since its incepti
  
 Python can also be used to process text, display numbers or images, solve scientific equations, and save data. In short, it is used behind the scenes to process a lot of elements you might need or encounter on your device(s) - mobile included. It is also one program used to build applications on the web, such as online games or online productivity tools. 
 
+## Getting Started
+
+First, you will need to create your own [repl.it](repl.it) account to use as an IDE or integrated developer environment. An IDE is an online or downloaded tool that developers use to code and compile/interpret the code and then show what the code will do. [repl.it](Repl.it) is an online IDE where you can both code and interpret that Python code and then see whether the code will work. **Please remember to put yourself as a STUDENT when creating an account.** You can choose to use any email you prefer, as long as it is the same email as your GitHub account. (Personal email is preferred)
+
+### Using Repl.it
 
