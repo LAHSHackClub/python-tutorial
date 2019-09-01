@@ -1,2 +1,2 @@
 # python-tutorial
-Learn Python 3!
+Welcome to the Python 3 Hack Club Course!
