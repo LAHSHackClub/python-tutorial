@@ -32,3 +32,9 @@ Today, you will simply create a simple ```Hello World``` program. To start off, 
 ```print("Hello World")```
 
 After you type in the code, press run. In the shell, you will see the letters "Hello World" show up! You just created your first python program!
+
+### Structure of the Course
+
+Each week, there will be a new branch in the repository called week-# with the hashtag representing the week of the course. Just follow the numbers from, starting with 1, and go to the next week at the next meeting we learn something. We will end with a final project that has virtually no requirements, so you can do whatever you want and then present that project, right before or right after Christmas break. 
+
+##### Thanks for joining this course!
