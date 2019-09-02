@@ -11,14 +11,20 @@ Python can also be used to process text, display numbers or images, solve scient
 
 ## Getting Started
 
-You will setup a [repl.it](repl.it) account, do a simple hello-world program, and get introduced to some tools you can use to further your python learning. 
+You will setup a [repl.it](repl.it) account and get introduced to some tools you can use to further your python learning. 
 
 ### Getting Repl.it
 
 First, you will need to create your own [repl.it](repl.it) account to use as an IDE or integrated developer environment. An IDE is an online or downloaded tool that developers use to code and compile/interpret the code and then show what the code will do. [repl.it](Repl.it) is an online IDE where you can both code and interpret that Python code and then see whether the code will work. **Please remember to put yourself as a STUDENT when creating an account.** You can choose to use any email you prefer, as long as it is the same email as your GitHub account. (Personal email is preferred)
 
+### Learning Tools
+
+One main python learning tool is [Learn Python](learnpython.org). It has a full course of python that will include exercises and explanations of many facets of the language. We will use certain exercises from this website when learning and practicing with python. The python main website [Python.org](python.org) provides access to documentation of all python commands and syntax.
+
+Syntax is the set of rules for arrangment and formatting of the python language. Every language has its own syntax and you will learn python syntax as you learn new commands and techniques throughout the course.
+
 ### Structure of the Course
 
 Each week, there will be a new branch in the repository called week-# with the hashtag representing the week of the course. Just follow the numbers from, starting with 1, and go to the next week at the next meeting we learn something. We will end with a final project that has virtually no requirements, so you can do whatever you want and then present that project, right before or right after Christmas break. 
 
-##### Thanks for joining this course!
+#### Thanks for joining this course!
