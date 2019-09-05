@@ -38,16 +38,4 @@ You can also hard-code any random string value or integer value through the belo
 
 ```print(540)``` will print the number 540. 
 
-### Concatenation
-
-One powerful function that python is concatenation. This is another way of saying that python allows us to use simple operators on numbers and strings. This is shown in the exercise through the below commands.
-
-```string1 = "hello"```
-
-```string2 = "my name is"```
-
-```print(string1 + string 2)``` will print "hello my name is" without the quotes.
-
-You cannot add integers and strings together, only integers to integers, and strings to strings. Adding (concatenating) strings will only put them together into one string, not combine them.
-
 #### Good job on your first lesson! We will learn about number/string operators and more about the boolean type next week!
