@@ -4,7 +4,10 @@
 
 ### Number Operators
 
-There are several different operators that can be used on numbers in Python. These include ```+``` for addition of two numbers, ```-``` for subtraction of two numbers, ```*``` for multiplication of two numbers, and ```/``` for division of two numbers. Other operators include the modulo operator ```%``` which is used as ```dividend % divisor = remainder``` and produces the integer remainder of a division problem.
+There are several different operators that can be used on numbers in Python. These include ```+``` for addition of two numbers, ```-``` for subtraction of two numbers, ```*``` for multiplication of two numbers, and ```/``` for division of two numbers. 
+
+Other operators include the modulo operator ```%``` which is used as ```dividend % divisor = remainder``` and produces the integer remainder of a division problem. Two multiplication symbols such as ```**``` create a power relationship where 
+```7 ** 2 = 7^2```.
 
 ### String Operators and Concatenation
 
