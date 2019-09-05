@@ -50,4 +50,4 @@ One powerful function that python is concatenation. This is another way of sayin
 
 You cannot add integers and strings together, only integers to integers, and strings to strings. Adding (concatenating) strings will only put them together into one string, not combine them.
 
-#### Good job on your first lesson! We will learn the input commands next week and do our first project!
+#### Good job on your first lesson! We will learn about number/string operators and more about the boolean type next week!
