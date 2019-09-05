@@ -1,5 +1,5 @@
-# Week 2 of Python 3 - Input Command and Mad-Lib Project
+# Week 2 of Python 3 - Operators and Boolean
 
-## Input Command
+## String Operators and Concatenation
 
-In order to progress with your first project, you will need to learn how to use the ```input``` command.
+In order to progress with python, you will need to make sure you understand concatenation for strings. We already covered this last week
