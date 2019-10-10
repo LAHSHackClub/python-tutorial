@@ -1,6 +1,6 @@
 # Challenge Problem Answers
 
-## Challenge 1
+## Challenge 1 - Even Fibonacci Numbers
 ```
 counter = 2
 oldNumber = 1
