@@ -1,5 +1,7 @@
 # Challenge Problem Answers
 
+If you want to use this solution, you must give me a step-by-step explanation on how the code works. Without it, this will not count.
+
 ## Challenge 1 - Even Fibonacci Numbers
 ```
 counter = 2
